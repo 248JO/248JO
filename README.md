@@ -1,5 +1,9 @@
 ## 👋 Hi! I'm Judy
 
+🎓 Sophomore at the University of Utah, studying Computer Engineering
+🔭 Aspiring Hardware, Software, and Machine Learning and Business Enthusiast
+
+I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a [Break Through Tech Fellow!](https://www.breakthroughtech.org/)) Currently, I'm focusing on building machine learning models and diving deeper into data analysis. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
 <!--
 **248JO/248JO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
