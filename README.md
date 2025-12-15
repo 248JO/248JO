@@ -41,7 +41,8 @@ Email: jojewia@gmail.com
 LinkedIn: [www.linkedin.com/in/judy-ojewia](www.linkedin.com/in/judy-ojewia)
  
 
-📊 GitHub Stats: Coming soon!
+<!-- 📊 GitHub Stats: Coming soon!
+-->
  
 
 ✨ Fun Fact:
