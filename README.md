@@ -8,8 +8,11 @@ I love tackling real-world problems through data analysis and predictive modelin
 
 ### 🎯 Featured Project: [Stock Price Prediction from Financial News](https://github.com/248JO/Break-Through-Tech-Salesforce-1a)
 What We Did: This project, Stock Price Prediction from Financial News, created a machine learning pipeline to forecast short-term S&P 500 price movements. We utilized FinBERT for sentiment analysis on news headlines, integrated these sentiment features with historical stock data, and trained models, such as XGBoost, to predict the next-day trend.
+
 Tools: Python, spaCy, scikit-learn
+
 Results: The XGBoost model demonstrated a theoretical 165.67% return in a simulated trading period, with insights showing that news sentiment had a weak incremental impact on accuracy, guiding a revised feature engineering strategy.
+
 Curious? [See the full project here](https://github.com/248JO/Break-Through-Tech-Salesforce-1a)
 
 
