@@ -24,7 +24,7 @@ What We Did: This project, Stock Price Prediction from Financial News, created a
 ### 🚀 Projects:
 A few other projects I’ve worked on:
 
-##### Snake Game - [Multiplayer Snake Game](https://github.com/248JO/snake-game)
+Snake Game - [Multiplayer Snake Game](https://github.com/248JO/snake-game)
 ##### Developed an interactive, multiplayer snake game using C#, HTML, and CSS, implementing a backend GUI and a shared game server for real-time competition.
 ##### Tech Stack: C#, HTML, CSS, JavaScript
 ##### Learnings: Designing game logic and real-time interactions, teamwork, and building a functional, interactive multiplayer experience
