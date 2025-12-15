@@ -14,11 +14,11 @@ What We Did: This project, Stock Price Prediction from Financial News, created a
 
 
 ### 🛠 Tech Stack:
-Languages: Python, Java, C++
-Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-Web Dev: Gradio
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-Databases: yfinance, Kaggle
+##### Languages: Python, Java, C++
+##### Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+##### Web Dev: Gradio
+##### Tools: Jupyter Notebooks, Google Colab, Git, GitHub
+##### Databases: yfinance, Kaggle
  
 
 ### 🚀 Projects:
