@@ -9,8 +9,8 @@ I love tackling real-world problems through data analysis and predictive modelin
 ### 🎯 Featured Project: [Stock Price Prediction from Financial News](https://github.com/248JO/Break-Through-Tech-Salesforce-1a)
 What We Did: This project, Stock Price Prediction from Financial News, created a machine learning pipeline to forecast short-term S&P 500 price movements. We utilized FinBERT for sentiment analysis on news headlines, integrated these sentiment features with historical stock data, and trained models, such as XGBoost, to predict the next-day trend.
 #### Tools: Python, spaCy, scikit-learn
-##### Results: The XGBoost model demonstrated a theoretical 165.67% return in a simulated trading period, with insights showing that news sentiment had a weak incremental impact on accuracy, guiding a revised feature engineering strategy.
-##### Curious? [See the full project here](https://github.com/248JO/Break-Through-Tech-Salesforce-1a)
+#### Results: The XGBoost model demonstrated a theoretical 165.67% return in a simulated trading period, with insights showing that news sentiment had a weak incremental impact on accuracy, guiding a revised feature engineering strategy.
+#### Curious? [See the full project here](https://github.com/248JO/Break-Through-Tech-Salesforce-1a)
 
 
 ### 🛠 Tech Stack:
@@ -24,16 +24,16 @@ Databases: yfinance, Kaggle
 ### 🚀 Projects:
 A few other projects I’ve worked on:
 
-Snake Game - [Multiplayer Snake Game](https://github.com/248JO/snake-game)
-Developed an interactive, multiplayer snake game using C#, HTML, and CSS, implementing a backend GUI and a shared game server for real-time competition.
-Tech Stack: C#, HTML, CSS, JavaScript
-Learnings: Designing game logic and real-time interactions, teamwork, and building a functional, interactive multiplayer experience
+##### Snake Game - [Multiplayer Snake Game](https://github.com/248JO/snake-game)
+##### Developed an interactive, multiplayer snake game using C#, HTML, and CSS, implementing a backend GUI and a shared game server for real-time competition.
+##### Tech Stack: C#, HTML, CSS, JavaScript
+##### Learnings: Designing game logic and real-time interactions, teamwork, and building a functional, interactive multiplayer experience
 
 
 RL Cart Pole Agent - [Deep Q-Network Agent](https://github.com/248JO/cart-pole-rl-agent)
-This project implements a Deep Q-Network (DQN) agent designed to solve the OpenAI Gym CartPole-v1 environment by learning to balance a pole on a moving cart.
-Tech Stack: Python, Jupyter Notebook, OpenAI Gym
-Learnings: Reinforcement Learning, Deep Q-Networks (DQN), Neural Networks
+##### This project implements a Deep Q-Network (DQN) agent designed to solve the OpenAI Gym CartPole-v1 environment by learning to balance a pole on a moving cart.
+##### Tech Stack: Python, Jupyter Notebook, OpenAI Gym
+##### Learnings: Reinforcement Learning, Deep Q-Networks (DQN), Neural Networks
  
 
 📫 How to Reach Me:
